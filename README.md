@@ -40,8 +40,10 @@ Log in to your existing MyRecipes! account, or create a new account.  Once logge
 * RESTful API
 * Heroku
 * Handlebars
-
-* New Technology: 
+* HTML
+* CSS
+* Eslint
+* Prittier
 
 
 ## Contributers 
